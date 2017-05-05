@@ -1,0 +1,6 @@
+ab93bd,127.0.0.1,GET,http://localhost/symfony-project/symfony/web/app_dev.php/hello/jon,1493357867,cef660,200
+cef660,127.0.0.1,GET,http://localhost/symfony-project/symfony/web/app_dev.php/hello/jon,1493357868,,404
+efeba6,127.0.0.1,GET,http://localhost/symfony-project/symfony/web/app_dev.php/,1493357926,,200
+72afce,127.0.0.1,GET,http://localhost/symfony-project/symfony/web/app_dev.php/,1493357975,,200
+5bb318,127.0.0.1,GET,http://localhost/symfony-project/symfony/web/app_dev.php/hello/jon,1493358241,c796ab,200
+c796ab,127.0.0.1,GET,http://localhost/symfony-project/symfony/web/app_dev.php/hello/jon,1493358241,,404

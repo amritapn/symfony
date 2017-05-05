@@ -1,0 +1,4 @@
+services:
+#    mindfire_magazine.example:
+#        class: Mindfire\MagazineBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

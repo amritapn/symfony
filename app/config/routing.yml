@@ -1,0 +1,12 @@
+mindfire_magazine:
+    resource: "@MindfireMagazineBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+first:
+    resource: "@firstBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
